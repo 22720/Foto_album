@@ -1,0 +1,28 @@
+body{
+  background-color: red;
+}
+
+#container{
+  background-color: lightblue;
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+#placeholder {
+  width: 1280px;
+  margin: auto;
+}
+
+#tumbnails {
+  width: 100%;
+  padding-bottom: 10px;
+  margin: auto;
+}
+
+#thumbnails img {
+  width: 25%;
+  height: auto;
+  margin-right: 10px;
+  margin-left: 10px;
+}
